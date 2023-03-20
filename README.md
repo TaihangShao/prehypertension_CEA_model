@@ -1,7 +1,7 @@
 ### prehypertension_CEA_model
 
-Manuscript title: Should we include Chinese prehypertensive patients in non-pharmacological interventions in advance?: A Markov based cost-effectiveness analysis and budget impact analysis
+Manuscript title: Cost-Effectiveness and Potential Budget Impact of Non-Pharmacological Interventions for Early Management in Prehypertensive People: An Economic Evaluation for China
 
-Author: Taihang Shao
+Author: Leyi Liang, Taihang Shao
 
 Technique consult: cpu_sth@stu.cpu.edu.cn
